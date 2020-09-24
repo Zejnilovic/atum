@@ -92,7 +92,7 @@ indepedently.
 <dependency>
       <groupId>za.co.absa</groupId>
       <artifactId>atum</artifactId>
-      <version>0.3.0</version>
+      <version>3.0.0</version>
 </dependency>
 ```
 
